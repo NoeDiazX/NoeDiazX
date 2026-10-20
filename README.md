@@ -1,4 +1,4 @@
-# ¡Hola! Soy Aníbal Noé Díaz Arrestegui 👋
+# ¡Hola! Soy Anibal Noe Diaz Arrestegui 👋
 
 🎓 Estudiante del **VIII ciclo de Ingeniería de Sistemas Computacionales** en la **Universidad Privada del Norte (UPN)**, Perú.
 
