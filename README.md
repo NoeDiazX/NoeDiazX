@@ -1,4 +1,3 @@
-[README_Perfil_GitHub_NoeDiazX.md](https://github.com/user-attachments/files/33731939/README_Perfil_GitHub_NoeDiazX.md)
 # ¡Hola! Soy Aníbal Noé Díaz Arrestegui 👋
 
 🎓 Estudiante del **VIII ciclo de Ingeniería de Sistemas Computacionales** en la **Universidad Privada del Norte (UPN)**, Perú.
